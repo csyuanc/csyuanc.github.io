@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Sugar glider - Photos and Videos</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/grayscale2.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <span class="light">Photos and videos</span>
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#sleeping">Sleeping</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#eating">Eating</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#playing">Playing</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="../csyuanc.github.io/introduction.html">Go to introduction</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="../csyuanc.github.io/index.html">Back to home</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Intro Header -
+
+
+    <!--coverr-->
+    <div class="homepage-hero-module">
+        <div class="video-container">
+            <div class="filter"></div>
+            <video autoplay loop class="fillWidth">
+                <source src="../csyuanc.github.io/video/MP4/Pride.mp4" type="video/mp4" />
+            </video>
+
+            <div style="position: absolute; bottom: 20px; left: 50%; margin-left: -19px;">
+                <a class="coverr-nav-item" href="#sleeping" style="text-decoration: none;">
+                    <h1 class="text-white">
+                        <i class="fa fa-angle-down"></i>
+                    </h1>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sleeping section -->
+    <div class="container">
+        <h1 id="sleeping">Sleeping</h1>
+        <div class="gallery">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/01.jpg" data-title="01" data-lightbox="sleeping">
+                            <img src="img/sleeping/01.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/02.jpg" data-title="02" data-lightbox="sleeping">
+                            <img src="img/sleeping/02.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/03.jpg" data-title="03" data-lightbox="sleeping">
+                            <img src="img/sleeping/03.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/04.jpg" data-title="04" data-lightbox="sleeping">
+                            <img src="img/sleeping/04.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Ends of Row1 -->
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/05.jpg" data-title="05" data-lightbox="sleeping">
+                            <img src="img/sleeping/05.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/06.jpg" data-title="06" data-lightbox="sleeping">
+                            <img src="img/sleeping/06.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/07.jpg" data-title="07" data-lightbox="sleeping">
+                            <img src="img/sleeping/07.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/08.jpg" data-title="08" data-lightbox="sleeping">
+                            <img src="img/sleeping/08.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Ends of Row2 -->
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/09.jpg" data-title="09" data-lightbox="sleeping">
+                            <img src="img/sleeping/09.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/10.jpg" data-title="10" data-lightbox="sleeping">
+                            <img src="img/sleeping/10.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/11.jpg" data-title="11" data-lightbox="sleeping">
+                            <img src="img/sleeping/11.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/sleeping/12.jpg" data-title="12" data-lightbox="sleeping">
+                            <img src="img/sleeping/12.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Ends of Row3 -->
+
+
+
+
+        </div>
+    </div>
+
+    <hr>
+
+    <!-- Eating section -->
+    <div class="container">
+        <h1 id="eating">Eating</h1>
+        <div class="gallery">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/eating/01.jpg" data-title="01" data-lightbox="eating">
+                            <img src="img/eating/01.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/eating/02.jpg" data-title="02" data-lightbox="eating">
+                            <img src="img/eating/02.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/eating/03.jpg" data-title="03" data-lightbox="eating">
+                            <img src="img/eating/03.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/eating/04.jpg" data-title="04" data-lightbox="eating">
+                            <img src="img/eating/04.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Ends of Row1 -->
+            
+        </div>
+    </div>
+
+    <hr>
+
+    <!-- Plaing section -->
+        <div class="container">
+        <h1 id="playing">Playing</h1>
+        <div class="gallery">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/playing/01.jpg" data-title="01" data-lightbox="playing">
+                            <img src="img/playing/01.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/playing/02.jpg" data-title="02" data-lightbox="playing">
+                            <img src="img/playing/02.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/playing/03.jpg" data-title="03" data-lightbox="playing">
+                            <img src="img/playing/03.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="square">
+                        <a href="img/playing/04.jpg" data-title="04" data-lightbox="playing">
+                            <img src="img/playing/04.jpg" class="img-thumbnail" /></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Ends of Row1 -->
+            <div class="row">
+                <div class="col-lg-3">
+
+                </div>
+                <div class="col-lg-3">
+
+                </div>
+                <div class="col-lg-3">
+
+                </div>
+                <div class="col-lg-3">
+
+                </div>
+            </div>
+            <!-- Ends of Row2 -->
+
+        </div>
+    </div>
+
+
+
+    <!-- jQuery -->
+    <script src="js/jquery.js "></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js "></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js "></script>
+
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript " src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false "></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/grayscale2.js "></script>
+
+    <!-- Custom files of lightbox -->
+    <script src="js/lightbox.js "></script>
+    <link href="css/lightbox.css " rel="stylesheet ">
+
+
+</body>
+
+</html>
